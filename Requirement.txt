@@ -1,0 +1,9 @@
+Pandas
+Nunpy
+Matplotlib
+OS
+wfdb
+keras
+conv1D
+pickle
+torch
